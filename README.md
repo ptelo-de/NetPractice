@@ -51,5 +51,13 @@ source: https://github.com/caroldaniel/42sp-cursus-netpractice
 
 ![image](https://github.com/user-attachments/assets/18334041-4251-434e-9407-bd128b1b065d)
 
+**ROUTER**
+![image](https://github.com/user-attachments/assets/68d2d656-d663-4afb-ae6d-dbf6b950fff4)
+
+**GATEWAY**
+![image](https://github.com/user-attachments/assets/babcc6a9-0ffb-4eff-8d69-dbd232f9a7e8)
+
+
+
 
 
