@@ -44,3 +44,12 @@ Subnet Mask:	11111111.11111111.11111111.00000000
 
 source: https://github.com/caroldaniel/42sp-cursus-netpractice
 
+**LAN**
+![image](https://github.com/user-attachments/assets/8b88b789-0789-49e7-993a-c4be2e10b27a)
+
+**IP**
+
+![image](https://github.com/user-attachments/assets/18334041-4251-434e-9407-bd128b1b065d)
+
+
+
