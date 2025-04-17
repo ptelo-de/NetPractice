@@ -57,6 +57,9 @@ source: https://github.com/caroldaniel/42sp-cursus-netpractice
 **GATEWAY**
 ![image](https://github.com/user-attachments/assets/babcc6a9-0ffb-4eff-8d69-dbd232f9a7e8)
 
+![image](https://github.com/user-attachments/assets/01095955-b882-4038-aab5-8be5c213ecd1)
+
+
 
 
 
